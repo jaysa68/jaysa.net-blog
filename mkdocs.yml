@@ -1,3 +1,14 @@
-site_name: Jaysa's Blog
+site_name: ''
 theme:
   name: material 
+  palette:
+    primary: custom
+    accent: custom
+  logo: assets/logo.png
+extra:
+  homepage: https://jaysa.net
+  generator: false
+extra_css:
+  - stylesheets/extra.css
+features:
+  - navigation.tabs
