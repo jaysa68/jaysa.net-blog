@@ -12,3 +12,10 @@ extra_css:
   - stylesheets/extra.css
 features:
   - navigation.tabs
+plugins:
+  - search
+  - social
+  - blog:
+      blog_dir: .
+      blog_toc: true
+      archive_date_format: MMMM yyyy
