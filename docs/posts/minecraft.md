@@ -1,4 +1,15 @@
+---
+date:
+    created: 2024-10-31
+categories:
+    - Gaming
+---
+
 # minecraf
+
+Wanna join my super cool modded minecraft server?
+
+<!-- more -->
 
 ## Downloads
 
