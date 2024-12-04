@@ -14,7 +14,8 @@ features:
   - navigation.tabs
 plugins:
   - search
-  - social
+  - social:
+      cards_layout: default
   - blog:
       blog_dir: .
       blog_toc: true
