@@ -19,3 +19,6 @@ plugins:
       blog_dir: .
       blog_toc: true
       archive_date_format: MMMM yyyy
+markdown_extensions:
+  - pymdownx.tasklist:
+      custom_checkbox: true
