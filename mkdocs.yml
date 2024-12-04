@@ -10,12 +10,9 @@ extra:
   generator: false
 extra_css:
   - stylesheets/extra.css
-features:
-  - navigation.tabs
 plugins:
   - search
-  - social:
-      cards_layout: default
+  - social
   - blog:
       blog_dir: .
       blog_toc: true
