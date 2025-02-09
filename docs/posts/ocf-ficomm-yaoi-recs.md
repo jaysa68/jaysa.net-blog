@@ -56,6 +56,10 @@ ocf staffers <3 <3 <3
 - [ ] marry my husband
 - **"you're just an omega... you can't talk back to me"**
 
+### from windy (bonus):
+
+- [ ] Untamed
+
 ## tips
 - look for fan translations!! the footnotes are nice
 - papago 2 translate if it isn't completed, raw, and im desperate

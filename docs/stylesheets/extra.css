@@ -3,3 +3,14 @@
   --md-primary-bg-color: #282828;
   --md-accent-fg-color:  #b8bb26;
 }
+img {
+  border-color: var(--md-primary-fg-color);
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.7);
+}
+iframe {
+  border-color: var(--md-primary-bg-color);
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.7);
+}
+img[src*="logo.svg"] {
+  box-shadow: none;
+}

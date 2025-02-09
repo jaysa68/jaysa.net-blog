@@ -1,10 +1,17 @@
-site_name: ''
+site_name: ""
+site_url: https://blog.jaysa.net
 theme:
   name: material 
   palette:
     primary: custom
     accent: custom
-  logo: assets/logo.png
+  logo: assets/logo.svg
+  favicon: assets/blog-favicon.ico
+  font:
+    text: 'Libre Baskerville'
+  features:
+    - navigation.tracking
+    - navigation.expand
 extra:
   homepage: https://jaysa.net
   generator: false
@@ -17,7 +24,9 @@ plugins:
       blog_dir: .
       blog_toc: true
       archive_date_format: MMMM yyyy
+      post_date_format: full
+      pagination: true
+      pagination_per_page: 15
 markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
-site_url: https://blog.jaysa.net

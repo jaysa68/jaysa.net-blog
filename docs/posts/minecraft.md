@@ -7,6 +7,8 @@ categories:
 
 # minecraf
 
+![Railroad by Captain O's](../assets/minecraft-railroad-min.png)
+
 Wanna join my super cool modded minecraft server? It's just a small community of my friends and friends of friends. Tends to get active when school breaks come around.
 
 <!-- more -->
