@@ -1,5 +1,6 @@
-site_name: ""
-site_url: https://blog.jaysa.net
+site_name: "jaysa's bloggg"
+site_url: "https://blog.jaysa.net"
+site_description: "jaysa's blog! :)"
 theme:
   name: material 
   palette:
@@ -12,14 +13,29 @@ theme:
   features:
     - navigation.tracking
     - navigation.expand
+    - navigation.footer
 extra:
   homepage: https://jaysa.net
   generator: false
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.com/users/202542121247440896
+      name: 'discord: evil_girl_making_laggy_chairs'
+    - icon: fontawesome/brands/signal-messenger
+      link: https://signal.me/#eu/4VblAHvEA8YcdUcNxZ_x2GHjKbSdBq4dbv9_L2bUNk-BYp2WphBAJqGK0bEJiuJC
+      name: 'signal: jaysa.88'
+    - icon: fontawesome/solid/square-rss
+      link: https://blog.jaysa.net/feed_rss_created.xml
+      name: 'rss feed'
 extra_css:
   - stylesheets/extra.css
+  - stylesheets/extra-icons.css
+  - stylesheets/gruvbox-dark.css
 plugins:
   - search
-  - social
+  - rss:
+      date_from_meta:
+        as_creation: date
   - blog:
       blog_dir: .
       blog_toc: true
@@ -27,6 +43,14 @@ plugins:
       post_date_format: full
       pagination: true
       pagination_per_page: 15
+      post_readtime: false
 markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - def_list

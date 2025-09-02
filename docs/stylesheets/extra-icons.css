@@ -1,0 +1,50 @@
+:root {
+  --md-admonition-icon--skull: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8 15a2 2 0 0 1-2-2 2 2 0 0 1 2-2 2 2 0 0 1 2 2 2 2 0 0 1-2 2m2.5 2 1.5-3 1.5 3zm5.5-2a2 2 0 0 1-2-2 2 2 0 0 1 2-2 2 2 0 0 1 2 2 2 2 0 0 1-2 2m6-4A10 10 0 0 0 12 1 10 10 0 0 0 2 11c0 2.8 1.2 5.3 3 7.1V22h14v-3.9c1.8-1.8 3-4.3 3-7.1m-5 9h-2v-2h-2v2h-2v-2H9v2H7v-2.8c-1.8-1.5-3-3.7-3-6.2a8 8 0 0 1 8-8 8 8 0 0 1 8 8c0 2.5-1.2 4.8-3 6.2z"/></svg>');
+  --md-admonition-icon--cowboy: url('data:image/svg+xml;charset=utf-8, <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M320 64c14.4 0 22.3-7 30.8-14.4C360.4 41.1 370.7 32 392 32c49.3 0 84.4 152.2 97.9 221.9-42.1 18.2-99 34.1-169.9 34.1s-127.8-15.9-169.9-34.1C163.6 184.2 198.7 32 248 32c21.3 0 31.6 9.1 41.2 17.6C297.7 57 305.6 64 320 64M111.1 270.7c47.2 24.5 117.5 49.3 209 49.3s161.8-24.8 208.9-49.3c24.8-12.9 49.8-28.3 70.1-47.7 7.9-7.9 20.2-9.2 29.6-3.3 9.5 5.9 13.5 17.9 9.9 28.5-13.5 37.7-38.4 72.3-66.1 100.6C523.7 398.9 443.6 448 320 448s-203.6-49.1-252.5-99.2c-27.7-28.4-52.6-63-66.1-100.7-3.6-10.6.4-22.6 9.9-28.5s21.7-4.5 29.6 3.3c20.4 19.4 45.3 34.8 70.1 47.7z"/></svg>');
+  --md-admonition-icon--pinetree: url('data:image/svg+xml;charset=utf-8, <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 21v-3H3l5-5H5l5-5H7l5-5 5 5h-3l5 5h-3l5 5h-7v3z"/></svg>')
+}
+.md-typeset .admonition.skull,
+.md-typeset details.skull {
+  border-color: var(--md-primary-bg-color);
+}
+.md-typeset .skull > .admonition-title,
+.md-typeset .skull > summary {
+  background-color: #f5f8dd;
+}
+.md-typeset .skull > .admonition-title::before,
+.md-typeset .skull > summary::before {
+  background-color: #665da9;
+  -webkit-mask-image: var(--md-admonition-icon--skull);
+          mask-image: var(--md-admonition-icon--skull);
+}
+
+.md-typeset .admonition.cowboy,
+.md-typeset details.cowboy {
+  border-color: var(--md-primary-bg-color);
+}
+.md-typeset .cowboy > .admonition-title,
+.md-typeset .cowboy > summary {
+  background-color: #6ec5d6;
+}
+.md-typeset .cowboy > .admonition-title::before,
+.md-typeset .cowboy > summary::before {
+  background-color: #73250e;
+  -webkit-mask-image: var(--md-admonition-icon--cowboy);
+          mask-image: var(--md-admonition-icon--cowboy);
+}
+
+.md-typeset .admonition.pinetree,
+.md-typeset details.pinetree {
+  border-color: var(--md-primary-bg-color);
+}
+.md-typeset .pinetree > .admonition-title,
+.md-typeset .pinetree > summary {
+  background-color: #20212c;
+  color: #FFF;
+}
+.md-typeset .pinetree > .admonition-title::before,
+.md-typeset .pinetree > summary::before {
+  background-color: #646d60;
+  -webkit-mask-image: var(--md-admonition-icon--pinetree);
+          mask-image: var(--md-admonition-icon--pinetree);
+}

@@ -10,4 +10,4 @@ categories:
 Notes taken while reading the poem for my English class on Chaucer.
 <!-- more -->
 
-Your move, storce. B)
+wait hold on i got stuff for this cs class first

@@ -59,4 +59,6 @@ aware
 
 I continue to think a woman is a girl who grew older. Age is huge part of your gender presentation.
 
+Being a girl is a hobby that I've leaned into lately. Some years it is a large part of my life, and others it falls to the wayside.
+
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1668280501/size=small/bgcol=333333/linkcol=fe7eaf/transparent=true/" seamless><a href="https://city-girl.bandcamp.com/album/c-girl">C-GIRL by City Girl</a></iframe>

@@ -1,13 +1,17 @@
 ---
 date:
     created: 2024-10-31
+    updated: 2024-02-10
 categories:
     - Gaming
 ---
 
-# minecraf
+# [ARCHIVED] cobblecraft
+
 
 ![Railroad by Captain O's](../assets/minecraft-railroad-min.png)
+
+!!! failure "This server is no longer running."
 
 Wanna join my super cool modded minecraft server? It's just a small community of my friends and friends of friends. Tends to get active when school breaks come around.
 
