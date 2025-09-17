@@ -8,6 +8,8 @@ Presented to you by the
 
 <img src="/assets/linuxtm.png" style="float: center;">
 
+<!-- more -->
+
 ## The Shell
 
 The shell is a command line-interface (CLI) to interact with a computer.

@@ -1,9 +1,12 @@
 ---
 date:
     created: 2025-09-04
+    updated: 2025-09-14
 ---
 
 # Doorways
+
+<img src="/assets/doorways-min.jpg" style="height:400px">
 
 <!-- more -->
 
