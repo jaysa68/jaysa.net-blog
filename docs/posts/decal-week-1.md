@@ -1,6 +1,8 @@
 ---
 title: Intro to Linux and FOSS
 date: 2025-09-09
+categories:
+    - Tech
 ---
 
 Presented to you by the

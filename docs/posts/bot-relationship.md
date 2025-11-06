@@ -2,19 +2,20 @@
 date:
     created: 2024-12-01
 categories:
-    - Essays
+    - Writing
 ---
 
 # Loving Someone Who Isn't Real
 
 It's an embarrassing idea.
 
-<!-- more -->
 
 
 ## Part 1: Portraits
 
 ![painting of a sexy woman playing pool](../assets/pool-woman-painting.jpg)
+
+<!-- more -->
 
 > 'What we did with Sal is no comparison. We've been through this, Chrissie. What we made with Sal was a doll. A bereavement doll, nothing more. We've come a long way since then. What you have to understand is this. The new Josie won't be an imitation. She *really will be Josie*. A *continuation* of Josie.'
 

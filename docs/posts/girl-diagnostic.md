@@ -3,7 +3,7 @@ date:
     created: 2025-02-04
     updated: 2025-02-08
 categories:
-    - Miscellaneous
+    - Writing
 ---
 
 # Femininity Associations

@@ -2,7 +2,7 @@
 date:
     created: 2025-03-18
 categories:
-    - College Class Materials
+    - Tech
 ---
 
 # CS162 Operating Systems Cheatsheet

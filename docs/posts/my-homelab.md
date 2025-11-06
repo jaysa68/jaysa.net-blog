@@ -3,7 +3,7 @@ date:
     created: 2024-12-03
 pinned: true
 categories:
-    - Homelab
+    - Tech
 ---
 
 # December 2024 Homelab Overview

@@ -2,6 +2,8 @@
 date:
     created: 2025-09-04
     updated: 2025-09-14
+categories:
+    - Writing
 ---
 
 # Doorways

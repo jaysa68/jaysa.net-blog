@@ -2,7 +2,7 @@
 date:
     created: 2025-05-11
 categories:
-    - Misc
+    - Miscellaneous
 ---
 
 # yip

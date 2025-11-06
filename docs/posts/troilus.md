@@ -2,7 +2,7 @@
 date:
     created: 2025-02-04
 categories:
-    - Essays
+    - Miscellaneous
 ---
 
 # Thoughts on Troilus and Criseyde
