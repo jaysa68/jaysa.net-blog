@@ -21,7 +21,17 @@ Some services a yubikey is good for:
 
 I add a small stickers to my yubikeys and name the corresponding SSH key / passkey / anything else, whenever possible and prompted, after that sticker.
 
-## FIDO2 SSH Key
+## SSH
+
+`HOST` is the host you want to log into.
+
+`USER` is your username on the host you want to log into.
+
+Run this command from any machine where you can plug in your yubikey:
+
+`cat ~/.ssh/YOUR_YUBIKEY_NAME.pub | ssh USER@HOST "mkdir -p ~/.ssh && cat >> ~/.ssh/authorized_keys"`
+
+### FIDO2 SSH Key
 
 Generate an SSH key on the yubikey: `ssh-keygen -t ed25519-sk -O resident -C "your_email@example.com"`. I skip the password. I do set a name (see *Naming* above). For an explanation of each part of the command, see the page below:
 
@@ -37,7 +47,9 @@ Run `ssh-keygen -K`.
 
 [dev.yubico: Securing SSH Authentication with FIDO2 Security Keys](https://developers.yubico.com/SSH/Securing_SSH_with_FIDO2.html)
 
-## Setting a Pin
+## Github
+
+### Setting a Pin
 
 If you try to register your yubikey with certain services without setting a pin, it will error. For example, on Github, you may see the following:
 
