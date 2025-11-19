@@ -9,9 +9,9 @@ Presented to you by the
 
 and jaysa :)
 
-<!-- more -->
-
 <img src="/assets/decal-nix/cover.png" style="width:600px;">
+
+<!-- more -->
 
 ## What is Nix?
 
