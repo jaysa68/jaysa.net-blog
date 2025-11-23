@@ -9,6 +9,8 @@ categories:
 
 Where did all the e-girls go?
 
+<img src="/assets/goth-girl-hypnosis/egirl-sketch.jpg" />
+
 <!-- more -->
 
 (Presented at Montara for the OCF slideshow night Nov 22, 2025)
@@ -99,3 +101,9 @@ Related stuff I'll get to later but I don't have time rn:
 - sanrio
 - mental illness
 - ramona flowers, manic pixie dream girl
+- bianca devins
+
+OCF consensus: **neo mallgoth**
+    - proposed by joie and felix
+    - i dont know how i feel about this though... but it works
+    - some just said to call it e-girl...
