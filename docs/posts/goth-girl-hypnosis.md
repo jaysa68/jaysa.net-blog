@@ -15,7 +15,7 @@ Where did all the e-girls go?
 
 (Presented at Montara for the OCF slideshow night Nov 22, 2025)
 
-## 1. Who asked?
+## Who asked?
 
 I was texting my friend and they mentioned to me that Grimes had dropped a new song, *Artificial Angels*.
 
@@ -102,6 +102,8 @@ Related stuff I'll get to later but I don't have time rn:
 - mental illness
 - ramona flowers, manic pixie dream girl
 - bianca devins
+
+---
 
 OCF consensus: **neo mallgoth**
     - proposed by joie and felix
