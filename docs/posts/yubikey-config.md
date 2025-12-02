@@ -47,6 +47,21 @@ Run `ssh-keygen -K`.
 
 [dev.yubico: Securing SSH Authentication with FIDO2 Security Keys](https://developers.yubico.com/SSH/Securing_SSH_with_FIDO2.html)
 
+Then, run a command similar to this:
+
+`ssh -i ~/.ssh/jaysa_yubikey.pub jaysa@jaysa.net`
+
+!!! info "Common SSH errors"
+
+    To debug why SSH isn't working, run `ssh -vvv`. Here are some common reasons why:
+    1. Using an alias for the hostname not present on your local host
+    1. Not specifying your username for the remote host
+    1. Didn't specify an identity file (the `-i` arg)
+    1. Use the wrong path for the identity file.
+         - Generated the ssh key in a place besides `.ssh`
+
+Your SSH key pair is pretty useless without your yubikey plugged in, but you can delete it off the host once you're done if you want to be cautious.
+
 ## Github
 
 ### Setting a Pin
