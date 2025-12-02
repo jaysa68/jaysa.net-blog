@@ -16,6 +16,7 @@ Some services a yubikey is good for:
 - Discord (2FA)
 - UC Berkeley account (2FA)
 - Bitwarden (2FA)
+- Google (Passkey)
 
 ## Naming
 
