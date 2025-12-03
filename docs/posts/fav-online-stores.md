@@ -2,7 +2,7 @@
 date:
     created: 2025-11-13
 categories:
-    - Music
+    - Miscellaneous
 ---
 
 # favorite online stores
