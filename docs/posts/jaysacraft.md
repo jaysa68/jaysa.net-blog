@@ -305,6 +305,7 @@ Yeah, but you're on the hook if they do any griefing. Ask an operator to whiteli
 Server operators:
 - `venomshank68` (jaysa)
 - `gureatest` (thalia)
+- 'AshIsCash' (ashleigh)
 
 ## I need help!
 
