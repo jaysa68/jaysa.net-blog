@@ -8,7 +8,7 @@ categories:
 # JAYSACRAFT
 
 
-![insert image]()
+![minecraft](/assets/jaysacraft.png)
 
 !!! success "This server is currently active!"
 
