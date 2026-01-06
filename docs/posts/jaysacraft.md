@@ -303,9 +303,8 @@ You can also use Modrinth or the default launcher instead of Prismlauncher.
 Yeah, but you're on the hook if they do any griefing. Ask an operator to whitelist them: `/whitelist add USERNAME`.
 
 Server operators:
-
-    - `venomshank68` (jaysa)
-    - `gureatest` (thalia)
+- `venomshank68` (jaysa)
+- `gureatest` (thalia)
 
 ## I need help!
 
