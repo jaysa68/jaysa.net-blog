@@ -27,252 +27,260 @@ The server runs Neoforge 1.21.1 and a "kitchen sink" pack (aka whatever mods `gu
 Downloads last updated 1/02/2026.
 
 ??? abstract "Included Mods"
-    - accessories_compat_layer-neoforge-0.1.10+1.21.1
-    - accessories-neoforge-1.1.0-beta.52+1.21.1
-    - AdvancedLootInfo-neoforge-1.21.1-1.6.0
-    - AdvancementPlaques-1.21.1-neoforge-1.6.8
-    - Almanac-1.21.1-2-neoforge-1.5.0
-    - AmbientEnvironment-neoforge-1.21.1-18.0.0.2
-    - AmbientSounds_NEOFORGE_v6.3.1_mc1.21.1
-    - amendments-1.21-2.0.13-neoforge
-    - another_furniture-neoforge-4.0.2
-    - appleskin-neoforge-mc1.21-3.0.7
-    - archers_expansion-neoforge-1.4.5+1.21.1
-    - archers-neoforge-2.6.8+1.21.1
-    - architectury-13.0.8-neoforge
-    - armory-neoforge-1.2.10+1.21.1
-    - ars_additions-1.21.1-21.2.3
-    - arsdelight-2.1.9
-    - arsenal-neoforge-1.3.3+1.21.1
-    - ars_nouveau-1.21.1-5.11.0
-    - artifacts-neoforge-13.1.0
-    - athena-neoforge-1.21-4.0.2
-    - azurelibarmor-neo-1.21.1-3.1.2
-    - badgebox-neoforge-1.3.0
-    - BadOptimizations-2.4.1-1.21.1
-    - baguettelib-1.21.1-NeoForge-1.1.5
-    - balm-neoforge-1.21.1-21.0.55
-    - bc_particle-0.0.2-1.21.1
-    - beautify-neoforge-1.21.1-2.0.2
-    - bellsandwhistles-0.4.7-1.21.1
-    - berserker_rpg-neoforge-2.5.4+1.21.1
-    - BetterAdvancements-NeoForge-1.21.1-0.4.3.21
-    - bettercombat-neoforge-2.3.1+1.21.1
-    - BetterPingDisplay-1.21.1-1.1
-    - BetterThirdPerson-neoforge-1.9.0
-    - better_tooltips-1.0.3
-    - biomereplacer-2.2-hippo-neo
-    - bookshelf-neoforge-1.21.1-21.1.80
-    - bountifulfares-neoforge-1.21.1-3.0.3
-    - BrewinAndChewin-neoforge-4.4.1+1.21.1
-    - bwncr-neoforge-1.21.1-3.20.3
-    - capturexp-neoforge-1.7.1-1.3.0
-    - Carved Wood-neoforge-1.21.1-1.7.7
-    - chat_heads-0.14.2-neoforge-1.21
-    - cherishedworlds-neoforge-10.1.1+1.21.1
-    - chipped-neoforge-1.21.1-4.0.2
-    - chisel-neoforge-2.0.0+mc1.21.1
-    - citresewn-1.2.2+1.21
-    - citresewn_neopatcher-1.1.0-1.2.2
-    - clean_tooltips-1.1-neoforge-1.21.1
-    - cloth-config-15.0.140-neoforge
-    - Clumps-neoforge-1.21.1-19.0.0.1
-    - cobble-caf-forms-4.0.3
-    - CobbleDollars-neoforge-2.0.0+Beta-5.1+1.21.1
-    - CobbleFurnies-neoforge-1.0
-    - cobblemon-additions-4.1.6
-    - cobblemonjourneymounts-1.6.0
-    - Cobblemon-neoforge-1.7.1+1.21.1
-    - cobblemon_quests-[1.21.1]-neoforge-1.2.0
-    - cobblemonraiddens-neoforge-0.5.1+1.21.1
-    - cobblenav-neoforge-2.2.5
-    - CobbleverseBadges-1.3
-    - cobbleworkers-neoforge-1.8.0+1.7.0
-    - Cobbreeding-neoforge-2.1.1
-    - collective-1.21.1-8.13
-    - connector-2.0.0-beta.12+1.21.1-full
-    - ConnectorExtras-1.12.1+1.21.1
-    - continuity-3.0.0+1.21.neoforge
-    - copycats-3.0.4+mc.1.21.1-neoforge
-    - Corgilib-NeoForge-1.21.1-5.0.0.7
-    - coroutil-neoforge-1.21.0-1.3.8
-    - craftingtweaks-neoforge-1.21.1-21.1.6
-    - CraftPresence-2.7.0+1.21.1-neoforge
-    - create-1.21.1-6.0.8
-    - createaddition-1.5.9
-    - create-central-kitchen-2.2.6
-    - create_copper_and_zinc-1.6.5-neoforge-1.21.1
-    - createdeco-2.1.2-1.21.1-neo
-    - create-dragons-plus-1.8.5
-    - create-enchantment-industry-2.2.5b
-    - create_jetpack-forge-5.1.2
-    - CreativeCore_NEOFORGE_v2.13.23_mc1.21.1
-    - cryonicconfig-neoforge-1.0.0+mc1.21.11
-    - curios-neoforge-9.5.1+1.21.1
-    - deathbackup-1.21.1-3.5
-    - defaultoptions-neoforge-1.21.1-21.1.5
-    - Design-n-Decor-1.21.1-2.1.0
-    - DistantHorizons-2.4.5-b-1.21.1-fabric-neoforge
-    - dungeon_difficulty-neoforge-3.6.10+1.21.1
-    - dungeons-and-taverns-v4.4.4
-    - dynamicassetgenerator-6.1.2-neoforge
-    - dynamiccrosshair-9.11+1.21.1-neoforge
-    - dynamic-fps-3.9.5+minecraft-1.21.0-neoforge
-    - EasyAnvils-v21.1.0-1.21.1-NeoForge
-    - EasyMagic-v21.1.4-1.21.1-NeoForge
-    - EasyShulkerBoxes-v21.1.3-1.21.1-NeoForge
-    - elemental_wizards_rpg-neoforge-2.5.4+1.21.1
-    - emi-1.1.22+1.21.1+neoforge
-    - emi_loot-0.7.8+1.21+neoforge
-    - emoji-type-2.3.0-1.21.3-neoforge
-    - enchanted-neoforge-1.21.1-4.2.2
-    - enhanced_attack_indicator-1.1.1+1.21-forge
-    - entityculling-neoforge-1.9.4-mc1.21.1
-    - entity_model_features_1.21-neoforge-3.0.7
-    - entity_texture_features_1.21-neoforge-7.0.8
-    - EuphoriaPatcher-1.7.8-r5.6.1-neoforge
-    - fabric-language-kotlin-1.13.8+kotlin.2.3.0
-    - fallingleaves-1.21.1-2.5.1
-    - fancymenu_neoforge_3.8.1_MC_1.21.1
-    - FarmersDelight-1.21.1-1.2.9
-    - ferritecore-7.0.2-neoforge
-    - fightorflight-neoforge-0.10.3
-    - forcemaster_rpg-neoforge-2.5.3+1.21.1
-    - forgified-fabric-api-0.116.7+2.2.0+1.21.1
-    - framework-neoforge-1.21.1-0.13.6
-    - ftb-library-neoforge-2101.1.29
-    - ftb-quests-neoforge-2101.1.20
-    - ftb-teams-neoforge-2101.1.9
-    - fzzy_config-0.7.4+1.21+neoforge
-    - gazebo-neoforge-2.1.0+1.21.1
-    - geckolib-neoforge-1.21.1-4.8.2
-    - GlitchCore-neoforge-1.21.1-2.1.0.0
-    - gravestonecurioscompat-1.21.1-NeoForge-3.0.1
-    - gravestone-neoforge-1.21.1-1.0.35
-    - handcrafted-neoforge-1.21.1-4.0.3
-    - Highlighter-1.21-neoforge-1.1.11
-    - Iceberg-1.21.1-neoforge-1.3.2
-    - ImmediatelyFast-NeoForge-1.6.9+1.21.1
-    - interiors-1.21.1-neoforge-0.6.0
-    - InvMove-0.9.2+1.21.1-NeoForge
-    - InvMoveCompats-0.5.0+1.21.8-NeoForge
-    - iris-neoforge-1.8.12+mc1.21.1
-    - Jade-1.21.1-NeoForge-15.10.3
-    - JadeAddons-1.21.1-NeoForge-6.1.0
-    - jeed-1.21-2.3.2
-    - jewelry-neoforge-2.3.2+1.21.1
-    - justzoom_neoforge_2.1.0_MC_1.21.1
-    - konkrete_neoforge_1.9.9_MC_1.21
-    - kotlinforforge-5.10.0-all
-    - KryptonFoxified-0.1.0+mc1.21
-    - languagereload-neoforge-1.21.1-1.0.2
-    - LegendaryMonuments-7.4
-    - letmedespawn-1.21.x-neoforge-1.5.0
-    - lithium-neoforge-0.15.1+mc1.21.1
-    - lithostitched-1.5.6-neoforge-1.21.1
-    - lne_archers-neoforge-1.0.8+1.21.1
-    - lne_paladins-neoforge-1.0.7+1.21.1
-    - lne_rogues-neoforge-1.0.4+1.21.1
-    - lne_wizards-neoforge-1.0.7+1.21.1
-    - lootr-neoforge-1.21.1-1.11.36.106
-    - Luckys-Cozyhome-Refurnished-1.1.20
-    - mega_showdown-neoforge-1.5+1.7.1+1.21.1
-    - melody_neoforge_1.0.10_MC_1.21
-    - modelfix-1.21-1.10
-    - modernfix-neoforge-5.25.1+mc1.21.1
-    - modopedia-neoforge-1.21.1-1.1.5
-    - monsters_in_the_closet-1.0.3+1.21-forge
-    - moonlight-1.21-2.29.3-neoforge
-    - moreculling-neoforge-1.21.1-1.0.6
-    - more_relics-neoforge-1.1.1+1.21.1
-    - more_rpg_library-neoforge-2.5.11+1.21.1
-    - mrpgc_skill_tree-neoforge-1.0.6+1.21.1
-    - NaturesCompass-1.21.1-3.0.3-neoforge
-    - nemos-inventory-sorting-NeoForge-1.21.1-1.8.2.1
-    - neoforge-dungeonsdelight-1.21.1-1.4.3
-    - neoforge-runiclib-1.21.1-4.3.9
-    - netherportalfix-neoforge-1.21.1-21.1.1
-    - nexuslib-neoforge-1.21.1-1.1.2
-    - notenoughanimations-neoforge-1.11.1-mc1.21.1
-    - Oh-The-Biomes-Weve-Gone-NeoForge-2.5.4
-    - Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.1.2
-    - OpenLoader-neoforge-1.21.1-21.1.5
-    - owo-lib-neoforge-0.12.15.5-beta.1+1.21
-    - packetfixer-3.3.1-1.20.5-1.21.X-merged
-    - paladins-neoforge-2.6.4+1.21.1
-    - particlerain-4.0.0-beta.5+1.21.1-neoforge
-    - particular-1.21.1-NeoForge-1.1.6
-    - Patchouli-1.21.1-92-NEOFORGE
-    - player-animation-lib-forge-2.0.4+1.21.1
-    - playerxp-neoforge-1.0.4+1.21.1
-    - PresenceFootsteps-1.11.0+1.21
-    - prickle-neoforge-1.21.1-21.1.11
-    - puffish_skills-0.17.1-1.21-neoforge
-    - PuzzlesLib-v21.1.39-1.21.1-NeoForge
-    - ranged_weapon_api-neoforge-2.3.3+1.21.1
-    - rctapi-neoforge-1.21.1-0.14.5-beta
-    - rctmod-neoforge-1.21.1-0.17.4-beta
-    - reeses-sodium-options-neoforge-1.8.3+mc1.21.4
-    - refurbished_furniture-neoforge-1.21.1-1.0.20
-    - relics-neoforge-1.2.2+1.21.1
-    - repurposed_structures-7.5.17+1.21.1-neoforge
-    - resourcefullib-neoforge-1.21-3.0.12
-    - rogues-neoforge-2.6.4+1.21.1
-    - runes-neoforge-1.2.1+1.21.1
-    - SafePastures-1.1.1+1.21.1
-    - seamless-loading-screen-2.2.1+1.21-neoforge
-    - shield_api-neoforge-2.2.0
-    - shulkerboxtooltip-neoforge-5.1.8+1.21.1
-    - skill_tree-neoforge-1.2.3+1.21.1
-    - sliceanddice-forge-4.2.2
-    - sodium-extra-neoforge-0.6.0+mc1.21.1
-    - sodiumextras-neoforge-1.0.8-1.21.1
-    - sodiumleafculling-neoforge-1.0.1-1.21.1
-    - sodium-neoforge-0.6.13+mc1.21.1
-    - sodiumoptionsapi-neoforge-1.0.10-1.21.1
-    - sophisticatedbackpacks-1.21.1-3.25.21.1475
-    - sophisticatedcore-1.21.1-1.3.99.1340
-    - sophisticatedstorage-1.21.1-1.5.18.1405
-    - spell_engine-neoforge-1.8.18+1.21.1
-    - spell_power-neoforge-1.4.6+1.21.1
-    - stateobserver-neoforge-1.21.1-1.6.4
-    - Stellarity-3.0.6.1
-    - structure_pool_api-neoforge-1.2.1+1.21.1
-    - supplementaries-1.21-3.5.16-neoforge
-    - swingthrough-1.0.5+1.21
-    - tectonic-3.0.19-neoforge-1.21.1
-    - TerraBlender-neoforge-1.21.1-4.1.0.8
-    - Terralith_1.21.x_v2.5.8
-    - tidal-towns-1.3.4
-    - timcore-neoforge-1.7.1-1.27.1
-    - tipsmod-neoforge-1.21.1-21.1.3
-    - Tomtaru's Cobblemon & Farmer's Delight Tweaks - 1.21.1 - R.1.10
-    - trimmed-neo-1.21-3.0.0
-    - trinkets-3.10.0
-    - UniLib-1.2.0+1.21.1-neoforge
-    - vein_vantage-3.0.0-neoforge-1.21.1
-    - visuality-forge-2.1.0
-    - VisualWorkbench-v21.1.1-1.21.1-NeoForge
-    - voicechat-neoforge-1.21.1-2.6.10
-    - wakes-1.21.1-NeoForge-1.0.4
-    - watut-neoforge-1.21.0-1.2.7
-    - waystones-neoforge-1.21.1-21.1.25
-    - witcher-class-mod-neoforge-2.6.3+1.21.1
-    - wizards-neoforge-2.6.5+1.21.1
-    - xaeromaps_waystones-1.0.8+1.21.x-neoforge
-    - Xaeros_Minimap_25.2.10_NeoForge_1.21
-    - XaerosWorldMap_1.39.12_NeoForge_1.21
-    - yet_another_config_lib_v3-3.8.1+1.21.1-neoforge
-    - YungsApi-1.21.1-NeoForge-5.1.6
-    - YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5
-    - YungsBetterDungeons-1.21.1-NeoForge-5.1.4
-    - YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2
-    - YungsBetterMineshafts-1.21.1-NeoForge-5.1.1
-    - YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5
-    - YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2
-    - YungsBetterStrongholds-1.21.1-NeoForge-5.1.3
-    - YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1
-
+    - Accessories [1\.1\.0\-beta\.52\+1\.21\.1] (accessories\-neoforge\-1\.1\.0\-beta\.52\+1\.21\.1\.jar)
+    - [Accessories Compatibility Layer](https://github.com/wisp-forest/accessories-compat-layer) [0\.1\.10] (accessories\_compat\_layer\-neoforge\-0\.1\.10\+1\.21\.1\.jar)
+    - AdvancedLootInfo [1\.21\.1\-1\.6\.0] (AdvancedLootInfo\-neoforge\-1\.21\.1\-1\.6\.0\.jar)
+    - [Advancement Plaques](https://anthonyhilyard.com/) [1\.6\.8] (AdvancementPlaques\-1\.21\.1\-neoforge\-1\.6\.8\.jar)
+    - Almanac [1\.5\.0] (Almanac\-1\.21\.1\-2\-neoforge\-1\.5\.0\.jar)
+    - [AmbientEnvironment](https://www.curseforge.com/minecraft/mc-mods/ambient-environment) [18\.0\.0\.2] (AmbientEnvironment\-neoforge\-1\.21\.1\-18\.0\.0\.2\.jar)
+    - [AmbientSounds](https://modrinth.com/mod/ambientsounds) [6\.3\.1] (AmbientSounds\_NEOFORGE\_v6\.3\.1\_mc1\.21\.1\.jar)
+    - Amendments [1\.21\-2\.0\.13] (amendments\-1\.21\-2\.0\.13\-neoforge\.jar)
+    - Another Furniture [4\.0\.2] (another\_furniture\-neoforge\-4\.0\.2\.jar)
+    - [AppleSkin](https://github.com/squeek502/AppleSkin) [3\.0\.7\+mc1\.21] (appleskin\-neoforge\-mc1\.21\-3\.0\.7\.jar)
+    - Archers \(RPG Series\) [2\.6\.8] (archers\-neoforge\-2\.6\.8\+1\.21\.1\.jar)
+    - Archers Expansion [1\.4\.5] (archers\_expansion\-neoforge\-1\.4\.5\+1\.21\.1\.jar)
+    - Architectury [13\.0\.8] (architectury\-13\.0\.8\-neoforge\.jar)
+    - Armory \(RPG Series\) [1\.2\.10] (armory\-neoforge\-1\.2\.10\+1\.21\.1\.jar)
+    - Ars Additions [1\.21\.1\-21\.2\.3] (ars\_additions\-1\.21\.1\-21\.2\.3\.jar)
+    - Ars Nouveau [5\.11\.0] (ars\_nouveau\-1\.21\.1\-5\.11\.0\.jar)
+    - Ars Nouveau's Flavors & Delight [2\.1\.9] (arsdelight\-2\.1\.9\.jar)
+    - Arsenal \(RPG Series\) [1\.3\.3] (arsenal\-neoforge\-1\.3\.3\+1\.21\.1\.jar)
+    - [Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts) [13\.1\.0] (artifacts\-neoforge\-13\.1\.0\.jar)
+    - [Athena](https://modrinth.com/mod/athena-ctm) [4\.0\.2] (athena\-neoforge\-1\.21\-4\.0\.2\.jar)
+    - [AzureLib Armor](https://github.com/AzureDoom/AzureLib-Armor) [3\.1\.2] (azurelibarmor\-neo\-1\.21\.1\-3\.1\.2\.jar)
+    - [Bad Wither No Cookie Reloaded](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded) [3\.20\.3] (bwncr\-neoforge\-1\.21\.1\-3\.20\.3\.jar)
+    - BadOptimizations [2\.4\.1] (BadOptimizations\-2\.4\.1\-1\.21\.1\.jar)
+    - Badge Box [1\.1\.1] (badgebox\-neoforge\-1\.3\.0\.jar)
+    - BaguetteLib [1\.1\.5] (baguettelib\-1\.21\.1\-NeoForge\-1\.1\.5\.jar)
+    - [Balm](https://mods.twelveiterations.com/) [21\.0\.55] (balm\-neoforge\-1\.21\.1\-21\.0\.55\.jar)
+    - Beautify [2\.0\.2] (beautify\-neoforge\-1\.21\.1\-2\.0\.2\.jar)
+    - Berserker [2\.5\.4] (berserker\_rpg\-neoforge\-2\.5\.4\+1\.21\.1\.jar)
+    - [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements) [0\.4\.3\.21] (BetterAdvancements\-NeoForge\-1\.21\.1\-0\.4\.3\.21\.jar)
+    - Better Combat [2\.3\.1\+1\.21\.1] (bettercombat\-neoforge\-2\.3\.1\+1\.21\.1\.jar)
+    - [Better Combat Particle Addition](https://fabricmc.net/) [0\.0\.2\-1\.21\.1] (bc\_particle\-0\.0\.2\-1\.21\.1\.jar)
+    - Better Ping Display [1\.1] (BetterPingDisplay\-1\.21\.1\-1\.1\.jar)
+    - Better Third Person [1\.9\.0] (BetterThirdPerson\-neoforge\-1\.9\.0\.jar)
+    - [Better Tooltips](https://modrinth.com/mod/better_tooltips) [1\.0\.3] (better\_tooltips\-1\.0\.3\.jar)
+    - [Biome Replacer](https://modrinth.com/mod/biome-replacer) [2\.2\-hippo] (biomereplacer\-2\.2\-hippo\-neo\.jar)
+    - [Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf) [21\.1\.80] (bookshelf\-neoforge\-1\.21\.1\-21\.1\.80\.jar)
+    - Bountiful Fares [3\.0\.3] (bountifulfares\-neoforge\-1\.21\.1\-3\.0\.3\.jar)
+    - Brewin' And Chewin' [4\.4\.1] (BrewinAndChewin\-neoforge\-4\.4\.1\+1\.21\.1\.jar)
+    - [CIT Resewn](https://citresewn.shcm.io/) [1\.2\.2\+1\.21] (citresewn\-1\.2\.2\+1\.21\.jar)
+    - [COBBLEVERSE Badges](https://www.lumyverse.com/cobbleverse) [1\.3] (CobbleverseBadges\-1\.3\.jar)
+    - Carved Wood [1\.7\.7] (Carved Wood\-neoforge\-1\.21\.1\-1\.7\.7\.jar)
+    - Chat Heads [0\.14\.2] (chat\_heads\-0\.14\.2\-neoforge\-1\.21\.jar)
+    - [Cherished Worlds](https://github.com/illusivesoulworks/cherishedworlds) [10\.1\.1\+1\.21\.1] (cherishedworlds\-neoforge\-10\.1\.1\+1\.21\.1\.jar)
+    - [Chipped](https://www.curseforge.com/minecraft/mc-mods/chipped) [4\.0\.2] (chipped\-neoforge\-1\.21\.1\-4\.0\.2\.jar)
+    - Chisel Reborn [2\.0\.0\+mc1\.21\.1] (chisel\-neoforge\-2\.0\.0\+mc1\.21\.1\.jar)
+    - Clean Tooltips [1\.1] (clean\_tooltips\-1\.1\-neoforge\-1\.21\.1\.jar)
+    - [Cloth Config v15 API](https://www.curseforge.com/minecraft/mc-mods/cloth-config-forge/) [15\.0\.140] (cloth\-config\-15\.0\.140\-neoforge\.jar)
+    - [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) [19\.0\.0\.1] (Clumps\-neoforge\-1\.21\.1\-19\.0\.0\.1\.jar)
+    - [CobbleDollars](https://www.curseforge.com/minecraft/mc-mods/cobbledollars) [2\.0\.0\+Beta\-5\.1\+1\.21\.1] (CobbleDollars\-neoforge\-2\.0\.0\+Beta\-5\.1\+1\.21\.1\.jar)
+    - CobbleFurnies [1\.0] (CobbleFurnies\-neoforge\-1\.0\.jar)
+    - [Cobblemon](https://cobblemon.com/) [1\.7\.1\+1\.21\.1] (Cobblemon\-neoforge\-1\.7\.1\+1\.21\.1\.jar)
+    - [Cobblemon Additions](https://discord.gg/Ge5dqkSupd/) [4\.1\.6] (cobblemon\-additions\-4\.1\.6\.jar)
+    - Cobblemon Capture XP [1\.7\.1\-neoforge\-1\.3\.0] (capturexp\-neoforge\-1\.7\.1\-1\.3\.0\.jar)
+    - Cobblemon Fight or Flight [0\.10\.3] (fightorflight\-neoforge\-0\.10\.3\.jar)
+    - Cobblemon Journey Mounts [1\.6\.0] (cobblemonjourneymounts\-1\.6\.0\.jar)
+    - [Cobblemon Quests](https://modrinth.com/mod/cobblemon-quests/) [1\.2\.0] (cobblemon\_quests\-\[1\.21\.1\]\-neoforge\-1\.2\.0\.jar)
+    - Cobblemon Raid Dens [0\.5\.1\+1\.21\.1] (cobblemonraiddens\-neoforge\-0\.5\.1\+1\.21\.1\.jar)
+    - [Cobblemon cafe](https://modrinth.com/datapack/cobble-caf-forms) [4\.0\.3] (cobble\-caf\-forms\-4\.0\.3\.jar)
+    - Cobblemon:Mega Showdown [1\.5\+1\.7\.1\+1\.21\.1] (mega\_showdown\-neoforge\-1\.5\+1\.7\.1\+1\.21\.1\.jar)
+    - Cobblenav [2\.2\.5] (cobblenav\-neoforge\-2\.2\.5\.jar)
+    - Cobbleworkers [1\.8\.0\+1\.7\.0] (cobbleworkers\-neoforge\-1\.8\.0\+1\.7\.0\.jar)
+    - Cobbreeding [2\.1\.1] (Cobbreeding\-neoforge\-2\.1\.1\.jar)
+    - [Collective](https://serilum.com/mod/collective) [8\.13] (collective\-1\.21\.1\-8\.13\.jar)
+    - [Connector Extras](https://github.com/Sinytra/ConnectorExtras) [1\.12\.1\+1\.21\.1] (ConnectorExtras\-1\.12\.1\+1\.21\.1\.jar)
+    - [Continuity](https://modrinth.com/mod/continuity) [3\.0\.0\+1\.21\.neoforge] (continuity\-3\.0\.0\+1\.21\.neoforge\.jar)
+    - [CorgiLib](https://github.com/CorgiTaco/CorgiLib) [5\.0\.0\.7] (Corgilib\-NeoForge\-1\.21\.1\-5\.0\.0\.7\.jar)
+    - CoroUtil [1\.21\.0\-1\.3\.8] (coroutil\-neoforge\-1\.21\.0\-1\.3\.8\.jar)
+    - [Cozy Home](https://fabricmc.net/) [1\.1\.20] (Luckys\-Cozyhome\-Refurnished\-1\.1\.20\.jar)
+    - [CraftPresence](https://www.curseforge.com/minecraft/mc-mods/craftpresence) [2\.7\.0] (CraftPresence\-2\.7\.0\+1\.21\.1\-neoforge\.jar)
+    - [Crafting Tweaks](https://mods.twelveiterations.com/mc/craftingtweaks) [21\.1\.6] (craftingtweaks\-neoforge\-1\.21\.1\-21\.1\.6\.jar)
+    - [Create](https://www.curseforge.com/minecraft/mc-mods/create) [6\.0\.8] (create\-1\.21\.1\-6\.0\.8\.jar)
+    - [Create Crafts & Additions](https://github.com/mrh0/createaddition) [1\.5\.9] (createaddition\-1\.5\.9\.jar)
+    - Create Deco [2\.1\.2] (createdeco\-2\.1\.2\-1\.21\.1\-neo\.jar)
+    - Create Diesel Generators [1\.21\.1\-1\.3\.8] (createdieselgenerators\-1\.21\.1\-1\.3\.8\.jar)
+    - Create Jetpack [5\.1\.2] (create\_jetpack\-forge\-5\.1\.2\.jar)
+    - [Create Let The Adventure Begin](https://www.curseforge.com/minecraft/mc-mods/create-let-the-adventure-begin) [3\.3\.0] (create\_ltab\-3\.6\.0\.jar)
+    - Create Slice & Dice [4\.2\.2] (sliceanddice\-forge\-4\.2\.2\.jar)
+    - Create: Bells & Whistles [0\.4\.7\-1\.21\.1] (bellsandwhistles\-0\.4\.7\-1\.21\.1\.jar)
+    - [Create: Central Kitchen](https://github.com/DragonsPlusMinecraft/CreateCentralKitchen) [2\.2\.6] (create\-central\-kitchen\-2\.2\.6\.jar)
+    - [Create: Copper and Zinc](https://www.curseforge.com/members/robinfrt/projects) [1\.6\.0] (create\_copper\_and\_zinc\-1\.6\.5\-neoforge\-1\.21\.1\.jar)
+    - [Create: Copycats\+](https://github.com/copycats-plus/copycats) [3\.0\.4\+mc\.1\.21\.1\-neoforge] (copycats\-3\.0\.4\+mc\.1\.21\.1\-neoforge\.jar)
+    - [Create: Dragons Plus](https://github.com/DragonsPlusMinecraft/CreateDragonsPlus) [1\.8\.5] (create\-dragons\-plus\-1\.8\.5\.jar)
+    - [Create: Enchantment Industry](https://github.com/DragonsPlusMinecraft/CreateEnchantmentIndustry) [2\.2\.5b] (create\-enchantment\-industry\-2\.2\.5b\.jar)
+    - [Create: Interiors](https://www.curseforge.com/minecraft/mc-mods/interiors) [0\.6\.0] (interiors\-1\.21\.1\-neoforge\-0\.6\.0\.jar)
+    - Create: Mechanical spawner [1\.3\.0\-6\.0\.8] (create\_mechanical\_spawner\-1\.21\.1\-1\.3\.0\-6\.0\.8\.jar)
+    - [Create: Power Loader](https://github.com/hlysine/create_power_loader) [2\.0\.3\-mc1\.21\.1] (create\_power\_loader\-2\.0\.3\-mc1\.21\.1\.jar)
+    - Create: Sound of Steam [0\.8\.2\+1\.21\.1] (pipeorgans\-0\.8\.2\+1\.21\.1\.jar)
+    - [CreativeCore](https://modrinth.com/mod/creativecore) [2\.13\.23] (CreativeCore\_NEOFORGE\_v2\.13\.23\_mc1\.21\.1\.jar)
+    - Cryonic Config [1\.0\.0\+mc1\.21\.11] (cryonicconfig\-neoforge\-1\.0\.0\+mc1\.21\.11\.jar)
+    - [Curios API](https://github.com/TheIllusiveC4/Curios) [9\.5\.1\+1\.21\.1] (curios\-neoforge\-9\.5\.1\+1\.21\.1\.jar)
+    - [Death Backup](https://serilum.com/mod/death-backup) [3\.5] (deathbackup\-1\.21\.1\-3\.5\.jar)
+    - [Default Options](https://mods.twelveiterations.com/mc/defaultoptions) [21\.1\.5] (defaultoptions\-neoforge\-1\.21\.1\-21\.1\.5\.jar)
+    - [Design n' Decor](https://www.curseforge.com/minecraft/mc-mods/create-design-n-decor) [2\.1\.0] (Design\-n\-Decor\-1\.21\.1\-2\.1\.0\.jar)
+    - [Distant Horizons](https://modrinth.com/mod/distanthorizons) [2\.4\.5\-b] (DistantHorizons\-2\.4\.5\-b\-1\.21\.1\-fabric\-neoforge\.jar)
+    - Dungeon Difficulty [3\.6\.10\+1\.21\.1] (dungeon\_difficulty\-neoforge\-3\.6\.10\+1\.21\.1\.jar)
+    - Dungeon's Delight [1\.4\.3] (neoforge\-dungeonsdelight\-1\.21\.1\-1\.4\.3\.jar)
+    - [Dungeons and Taverns](https://modrinth.com/datapack/dungeons-and-taverns) [1\-v4\.4\.4] (dungeons\-and\-taverns\-v4\.4\.4\.jar)
+    - [Dynamic Asset Generator](https://github.com/lukebemishprojects/DynamicAssetGenerator) [6\.1\.2] (dynamicassetgenerator\-6\.1\.2\-neoforge\.jar)
+    - Dynamic Crosshair [9\.11] (dynamiccrosshair\-9\.11\+1\.21\.1\-neoforge\.jar)
+    - [Dynamic FPS](https://dapprgames.com/mods) [3\.9\.5] (dynamic\-fps\-3\.9\.5\+minecraft\-1\.21\.0\-neoforge\.jar)
+    - EMI [1\.1\.22\+1\.21\.1\+neoforge] (emi\-1\.1\.22\+1\.21\.1\+neoforge\.jar)
+    - [EMI Loot](https://github.com/fzzyhmstrs/EMI_loot) [0\.7\.8\+1\.21\+neoforge] (emi\_loot\-0\.7\.8\+1\.21\+neoforge\.jar)
+    - [Easy Anvils](https://github.com/Fuzss/easyanvils) [21\.1\.0] (EasyAnvils\-v21\.1\.0\-1\.21\.1\-NeoForge\.jar)
+    - [Easy Magic](https://github.com/Fuzss/easymagic) [21\.1\.4] (EasyMagic\-v21\.1\.4\-1\.21\.1\-NeoForge\.jar)
+    - [Easy Shulker Boxes](https://github.com/Fuzss/easyshulkerboxes) [21\.1\.3] (EasyShulkerBoxes\-v21\.1\.3\-1\.21\.1\-NeoForge\.jar)
+    - Elemental Wizards [2\.5\.4] (elemental\_wizards\_rpg\-neoforge\-2\.5\.4\+1\.21\.1\.jar)
+    - [Emoji Type](https://modrinth.com/mod/emoji-type) [2\.3\.0\-1\.21\.3] (emoji\-type\-2\.3\.0\-1\.21\.3\-neoforge\.jar)
+    - [Enchanted](https://github.com/Favouriteless/Enchanted) [4\.2\.2] (enchanted\-neoforge\-1\.21\.1\-4\.2\.2\.jar)
+    - [Enhanced Attack Indicator](https://modrinth.com/mod/enhanced-attack-indicator) [1\.1\.1\+1\.21\-forge] (enhanced\_attack\_indicator\-1\.1\.1\+1\.21\-forge\.jar)
+    - Entity Model Features [3\.0\.7] (entity\_model\_features\_1\.21\-neoforge\-3\.0\.7\.jar)
+    - Entity Texture Features [7\.0\.8] (entity\_texture\_features\_1\.21\-neoforge\-7\.0\.8\.jar)
+    - [EntityCulling](https://modrinth.com/mod/entityculling) [1\.9\.4] (entityculling\-neoforge\-1\.9\.4\-mc1\.21\.1\.jar)
+    - [Euphoria Patcher](https://euphoriapatches.com) [1\.7\.8\-r5\.6\.1\-neoforge] (EuphoriaPatcher\-1\.7\.8\-r5\.6\.1\-neoforge\.jar)
+    - FTB Library [2101\.1\.29] (ftb\-library\-neoforge\-2101\.1\.29\.jar)
+    - FTB Quests [2101\.1\.20] (ftb\-quests\-neoforge\-2101\.1\.20\.jar)
+    - FTB Teams [2101\.1\.9] (ftb\-teams\-neoforge\-2101\.1\.9\.jar)
+    - [Fabric Language Kotlin](https://minecraft.curseforge.com/projects/fabric-language-kotlin) [1\.13\.8\+kotlin\.2\.3\.0] (fabric\-language\-kotlin\-1\.13\.8\+kotlin\.2\.3\.0\.jar)
+    - Fallingleaves [2\.5\.1] (fallingleaves\-1\.21\.1\-2\.5\.1\.jar)
+    - FancyMenu [3\.8\.1] (fancymenu\_neoforge\_3\.8\.1\_MC\_1\.21\.1\.jar)
+    - [Farmer's Delight](https://github.com/vectorwing/FarmersDelight) [1\.2\.9] (FarmersDelight\-1\.21\.1\-1\.2\.9\.jar)
+    - Ferrite Core [7\.0\.2] (ferritecore\-7\.0\.2\-neoforge\.jar)
+    - Forcemaster [2\.5\.3] (forcemaster\_rpg\-neoforge\-2\.5\.3\+1\.21\.1\.jar)
+    - [Forgified Fabric API](https://github.com/Sinytra/ForgifiedFabricAPI) [0\.116\.7\+2\.2\.0\+1\.21\.1] (forgified\-fabric\-api\-0\.116\.7\+2\.2\.0\+1\.21\.1\.jar)
+    - [Framework](https://mrcrayfish.com/mods?id=framework) [0\.13\.6] (framework\-neoforge\-1\.21\.1\-0\.13\.6\.jar)
+    - Fzzy Config [0\.7\.4\+1\.21\+neoforge] (fzzy\_config\-0\.7\.4\+1\.21\+neoforge\.jar)
+    - Gazebos \(RPG Series\) [2\.1\.0] (gazebo\-neoforge\-2\.1\.0\+1\.21\.1\.jar)
+    - [GeckoLib 4](http://geckolib.com/) [4\.8\.2] (geckolib\-neoforge\-1\.21\.1\-4\.8\.2\.jar)
+    - [GlitchCore](https://www.curseforge.com/minecraft/mc-mods/glitchcore) [2\.1\.0\.0] (GlitchCore\-neoforge\-1\.21\.1\-2\.1\.0\.0\.jar)
+    - Gravestone Curios Compatibility [3\.0\.1] (gravestonecurioscompat\-1\.21\.1\-NeoForge\-3\.0\.1\.jar)
+    - [Gravestone Mod](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod) [1\.21\.1\-1\.0\.35] (gravestone\-neoforge\-1\.21\.1\-1\.0\.35\.jar)
+    - [Handcrafted](https://modrinth.com/mod/handcrafted) [4\.0\.3] (handcrafted\-neoforge\-1\.21\.1\-4\.0\.3\.jar)
+    - [Highlighter](https://anthonyhilyard.com/) [1\.1\.11] (Highlighter\-1\.21\-neoforge\-1\.1\.11\.jar)
+    - [Iceberg](https://anthonyhilyard.com/) [1\.3\.2] (Iceberg\-1\.21\.1\-neoforge\-1\.3\.2\.jar)
+    - ImmediatelyFast [1\.6\.9\+1\.21\.1] (ImmediatelyFast\-NeoForge\-1\.6\.9\+1\.21\.1\.jar)
+    - InvMove [0\.9\.2] (InvMove\-0\.9\.2\+1\.21\.1\-NeoForge\.jar)
+    - InvMoveCompats [0\.5\.0] (InvMoveCompats\-0\.5\.0\+1\.21\.8\-NeoForge\.jar)
+    - Iris [1\.8\.12\-snapshot\+mc1\.21\.1\-local] (iris\-neoforge\-1\.8\.12\+mc1\.21\.1\.jar)
+    - [Jade](https://www.curseforge.com/minecraft/mc-mods/jade) [15\.10\.3\+neoforge] (Jade\-1\.21\.1\-NeoForge\-15\.10\.3\.jar)
+    - [Jade Addons](https://www.curseforge.com/minecraft/mc-mods/jade-addons) [6\.1\.0\+neoforge] (JadeAddons\-1\.21\.1\-NeoForge\-6\.1\.0\.jar)
+    - Jewelry \(RPG Series\) [2\.3\.2] (jewelry\-neoforge\-2\.3\.2\+1\.21\.1\.jar)
+    - Just Enough Effects Descriptions [1\.21\-2\.3\.2] (jeed\-1\.21\-2\.3\.2\.jar)
+    - Just Zoom [2\.1\.0] (justzoom\_neoforge\_2\.1\.0\_MC\_1\.21\.1\.jar)
+    - Konkrete [1\.9\.9] (konkrete\_neoforge\_1\.9\.9\_MC\_1\.21\.jar)
+    - [KryptonFoxified](https://github.com/ThinkingStudios/Krypton-Foxified) [0\.1\.0\+mc1\.21] (KryptonFoxified\-0\.1\.0\+mc1\.21\.jar)
+    - LNE Archers [1\.0\.8] (lne\_archers\-neoforge\-1\.0\.8\+1\.21\.1\.jar)
+    - LNE Paladins [1\.0\.7] (lne\_paladins\-neoforge\-1\.0\.7\+1\.21\.1\.jar)
+    - LNE Rogues [1\.0\.4] (lne\_rogues\-neoforge\-1\.0\.4\+1\.21\.1\.jar)
+    - LNE Wizards [1\.0\.7] (lne\_wizards\-neoforge\-1\.0\.7\+1\.21\.1\.jar)
+    - LanguageReload [1\.0\.2] (languagereload\-neoforge\-1\.21\.1\-1\.0\.2\.jar)
+    - [Legendary Monuments](https://fabricmc.net/) [7\.4] (LegendaryMonuments\-7\.4\.jar)
+    - Let Me Despawn [1\.5\.0] (letmedespawn\-1\.21\.x\-neoforge\-1\.5\.0\.jar)
+    - Lithium [0\.15\.1\+mc1\.21\.1] (lithium\-neoforge\-0\.15\.1\+mc1\.21\.1\.jar)
+    - Lithostitched [1\.5\.6] (lithostitched\-1\.5\.6\-neoforge\-1\.21\.1\.jar)
+    - [Lootr](https://minecraft.curseforge.com/projects/lootr) [1\.21\.1\-1\.11\.36\.106] (lootr\-neoforge\-1\.21\.1\-1\.11\.36\.106\.jar)
+    - [LumyMon](https://www.lumyverse.com) [0\.5\.5] (LumyMon\-0\.5\.5\.jar)
+    - Mechanicals Lib [1\.1\.0] (mechanicals\-1\.21\.1\-1\.1\.0\.jar)
+    - Melody [1\.0\.10] (melody\_neoforge\_1\.0\.10\_MC\_1\.21\.jar)
+    - Model Gap Fix [1\.21\-1\.10] (modelfix\-1\.21\-1\.10\.jar)
+    - [ModernFix](https://modrinth.com/mod/modernfix) [5\.25\.1\+mc1\.21\.1] (modernfix\-neoforge\-5\.25\.1\+mc1\.21\.1\.jar)
+    - [Modopedia](https://github.com/Favouriteless/Modopedia) [1\.1\.5] (modopedia\-neoforge\-1\.21\.1\-1\.1\.5\.jar)
+    - [Monsters In The Closet](https://modrinth.com/mod/monsters-in-the-closet) [1\.0\.3\+1\.21\-forge] (monsters\_in\_the\_closet\-1\.0\.3\+1\.21\-forge\.jar)
+    - Moonlight Lib [1\.21\-2\.29\.3] (moonlight\-1\.21\-2\.29\.3\-neoforge\.jar)
+    - [More Culling](https://modrinth.com/mod/moreculling) [1\.0\.6] (moreculling\-neoforge\-1\.21\.1\-1\.0\.6\.jar)
+    - More RPG Classes \- Skill Tree [1\.0\.6] (mrpgc\_skill\_tree\-neoforge\-1\.0\.6\+1\.21\.1\.jar)
+    - More RPG Library [2\.5\.11] (more\_rpg\_library\-neoforge\-2\.5\.11\+1\.21\.1\.jar)
+    - More Relics [1\.1\.1] (more\_relics\-neoforge\-1\.1\.1\+1\.21\.1\.jar)
+    - [MrCrayfish's Furniture Mod: Refurbished](https://mrcrayfish.com/mods/furniture_refurbished) [1\.0\.20] (refurbished\_furniture\-neoforge\-1\.21\.1\-1\.0\.20\.jar)
+    - [Nature's Compass](https://github.com/MattCzyr/NaturesCompass) [1\.21\.1\-3\.0\.2\-neoforge] (NaturesCompass\-1\.21\.1\-3\.0\.3\-neoforge\.jar)
+    - Nemo's Inventory Sorting [1\.21\.1\-1\.8\.2\.1] (nemos\-inventory\-sorting\-NeoForge\-1\.21\.1\-1\.8\.2\.1\.jar)
+    - [NetherPortalFix](https://mods.twelveiterations.com/) [21\.1\.1] (netherportalfix\-neoforge\-1\.21\.1\-21\.1\.1\.jar)
+    - NexusLib [1\.1\.2] (nexuslib\-neoforge\-1\.21\.1\-1\.1\.2\.jar)
+    - [NotEnoughAnimations](https://modrinth.com/mod/not-enough-animations) [1\.11\.1] (notenoughanimations\-neoforge\-1\.11\.1\-mc1\.21\.1\.jar)
+    - [Oh The Biomes We've Gone](https://potionstudios.net/) [2\.5\.4] (Oh\-The\-Biomes\-Weve\-Gone\-NeoForge\-2\.5\.4\.jar)
+    - Oh The Trees You'll Grow [5\.1\.2] (Oh\-The\-Trees\-Youll\-Grow\-neoforge\-1\.21\.1\-5\.1\.2\.jar)
+    - [OpenLoader](https://www.curseforge.com/minecraft/mc-mods/open-loader) [21\.1\.5] (OpenLoader\-neoforge\-1\.21\.1\-21\.1\.5\.jar)
+    - PacketFixer [3\.3\.1] (packetfixer\-3\.3\.1\-1\.20\.5\-1\.21\.X\-merged\.jar)
+    - Paladins & Priests \(RPG Series\) [2\.6\.4] (paladins\-neoforge\-2\.6\.4\+1\.21\.1\.jar)
+    - Particle Rain [4\.0\.0\-beta\.5] (particlerain\-4\.0\.0\-beta\.5\+1\.21\.1\-neoforge\.jar)
+    - Particular [1\.1\.6] (particular\-1\.21\.1\-NeoForge\-1\.1\.6\.jar)
+    - Patchouli [1\.21\.1\-92\-NEOFORGE] (Patchouli\-1\.21\.1\-92\-NEOFORGE\.jar)
+    - [Player Animator](https://github.com/KosmX/minecraftPlayerAnimator) [2\.0\.4\+1\.21\.1] (player\-animation\-lib\-forge\-2\.0\.4\+1\.21\.1\.jar)
+    - PlayerXP [1\.0\.4\+1\.21\.1] (playerxp\-neoforge\-1\.0\.4\+1\.21\.1\.jar)
+    - Presence Footsteps [1\.11\.0\+1\.21] (PresenceFootsteps\-1\.11\.0\+1\.21\.jar)
+    - [PrickleMC](https://www.curseforge.com/minecraft/mc-mods/prickle) [21\.1\.11] (prickle\-neoforge\-1\.21\.1\-21\.1\.11\.jar)
+    - Pufferfish's Skills [0\.17\.1] (puffish\_skills\-0\.17\.1\-1\.21\-neoforge\.jar)
+    - [Puzzles Lib](https://github.com/Fuzss/puzzleslib) [21\.1\.39] (PuzzlesLib\-v21\.1\.39\-1\.21\.1\-NeoForge\.jar)
+    - Radical Cobblemon Trainers [0\.17\.4\-beta] (rctmod\-neoforge\-1\.21\.1\-0\.17\.4\-beta\.jar)
+    - Radical Cobblemon Trainers API [0\.14\.5\-beta] (rctapi\-neoforge\-1\.21\.1\-0\.14\.5\-beta\.jar)
+    - RangedWeaponAPI [2\.3\.3\+1\.21\.1] (ranged\_weapon\_api\-neoforge\-2\.3\.3\+1\.21\.1\.jar)
+    - Reese's Sodium Options [1\.8\.3\+mc1\.21\.4] (reeses\-sodium\-options\-neoforge\-1\.8\.3\+mc1\.21\.4\.jar)
+    - Relics \(RPG Series\) [1\.2\.2] (relics\-neoforge\-1\.2\.2\+1\.21\.1\.jar)
+    - [Repurposed Structures](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures) [7\.5\.17\+1\.21\.1\-neoforge] (repurposed\_structures\-7\.5\.17\+1\.21\.1\-neoforge\.jar)
+    - Resourceful Lib [3\.0\.12] (resourcefullib\-neoforge\-1\.21\-3\.0\.12\.jar)
+    - Rogues & Warriors \(RPG Series\) [2\.6\.4] (rogues\-neoforge\-2\.6\.4\+1\.21\.1\.jar)
+    - Runes [1\.2\.1\+1\.21\.1] (runes\-neoforge\-1\.2\.1\+1\.21\.1\.jar)
+    - RunicLib [4\.3\.9] (neoforge\-runiclib\-1\.21\.1\-4\.3\.9\.jar)
+    - Safe Pastures [1\.1\.1\+1\.21\.1] (SafePastures\-1\.1\.1\+1\.21\.1\.jar)
+    - Seamless Loading Screen [2\.2\.1\+1\.21] (seamless\-loading\-screen\-2\.2\.1\+1\.21\-neoforge\.jar)
+    - ShieldAPI [2\.2\.0] (shield\_api\-neoforge\-2\.2\.0\.jar)
+    - [ShulkerBoxTooltip](https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip/) [5\.1\.8\+1\.21\.1] (shulkerboxtooltip\-neoforge\-5\.1\.8\+1\.21\.1\.jar)
+    - [Simple Voice Chat](https://modrepo.de/minecraft/voicechat/overview) [1\.21\.1\-2\.6\.10] (voicechat\-neoforge\-1\.21\.1\-2\.6\.10\.jar)
+    - Skill Tree \(RPG Series\) [1\.2\.3] (skill\_tree\-neoforge\-1\.2\.3\+1\.21\.1\.jar)
+    - Sodium [0\.6\.13\+mc1\.21\.1] (sodium\-neoforge\-0\.6\.13\+mc1\.21\.1\.jar)
+    - Sodium Extra [0\.6\.0\+mc1\.21\.1] (sodium\-extra\-neoforge\-0\.6\.0\+mc1\.21\.1\.jar)
+    - [Sodium Extras](https://github.com/txnimc/SodiumExtras/) [1\.0\.7] (sodiumextras\-neoforge\-1\.0\.8\-1\.21\.1\.jar)
+    - [Sodium Leaf Culling](https://github.com/txnimc/SodiumLeafCulling/) [1\.0\.1] (sodiumleafculling\-neoforge\-1\.0\.1\-1\.21\.1\.jar)
+    - [Sodium Options API](https://github.com/txnimc/SodiumOptionsAPI/) [1\.0\.10] (sodiumoptionsapi\-neoforge\-1\.0\.10\-1\.21\.1\.jar)
+    - [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks) [3\.25\.21] (sophisticatedbackpacks\-1\.21\.1\-3\.25\.21\.1475\.jar)
+    - [Sophisticated Core](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core) [1\.3\.99] (sophisticatedcore\-1\.21\.1\-1\.3\.99\.1340\.jar)
+    - [Sophisticated Storage](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage) [1\.5\.18] (sophisticatedstorage\-1\.21\.1\-1\.5\.18\.1405\.jar)
+    - Spell Engine [1\.8\.18] (spell\_engine\-neoforge\-1\.8\.18\+1\.21\.1\.jar)
+    - Spell Power Attribute [1\.4\.6\+1\.21\.1] (spell\_power\-neoforge\-1\.4\.6\+1\.21\.1\.jar)
+    - [StateObserver](https://github.com/Favouriteless/StateObserver) [1\.6\.4] (stateobserver\-neoforge\-1\.21\.1\-1\.6\.4\.jar)
+    - [Stellarity](https://modrinth.com/datapack/stellarity) [3\.0\.6\.1] (Stellarity\-3\.0\.6\.1\.jar)
+    - Structure Pool API [1\.2\.1\+1\.21\.1] (structure\_pool\_api\-neoforge\-1\.2\.1\+1\.21\.1\.jar)
+    - Supplementaries [1\.21\-3\.5\.16] (supplementaries\-1\.21\-3\.5\.16\-neoforge\.jar)
+    - [SwingThrough](https://modrinth.com/mod/swingthrough) [1\.0\.5\+1\.21] (swingthrough\-1\.0\.5\+1\.21\.jar)
+    - [Tectonic](https://modrinth.com/project/tectonic) [3\.0\.19] (tectonic\-3\.0\.19\-neoforge\-1\.21\.1\.jar)
+    - [TerraBlender](https://www.curseforge.com/minecraft/mc-mods/terrablender) [4\.1\.0\.8] (TerraBlender\-neoforge\-1\.21\.1\-4\.1\.0\.8\.jar)
+    - [Terralith](https://www.stardustlabs.net/) [2\.5\.8] (Terralith\_1\.21\.x\_v2\.5\.8\.jar)
+    - [Tidal Towns](https://modrinth.com/datapack/tidal-towns) [1\.3\.4] (tidal\-towns\-1\.3\.4\.jar)
+    - Tim Core [1\.7\.1\-neoforge\-1\.27\.1] (timcore\-neoforge\-1\.7\.1\-1\.27\.1\.jar)
+    - [Tips](https://www.curseforge.com/minecraft/mc-mods/tips) [21\.1\.3] (tipsmod\-neoforge\-1\.21\.1\-21\.1\.3\.jar)
+    - [Tomtaru's Cobblemon & Farmer's Delights Tweaks](https://www.curseforge.com/minecraft/mc-mods/tomtarus-cobblemon-farmers-delight-tweaks) [1\.10\.0] (Tomtaru's Cobblemon & Farmer's Delight Tweaks \- 1\.21\.1 \- R\.1\.10\.jar)
+    - [Trimmed](https://modrinth.com/mod/trimmed/) [3\.0\.0] (trimmed\-neo\-1\.21\-3\.0\.0\.jar)
+    - [Trinkets](https://www.curseforge.com/minecraft/mc-mods/trinkets-fabric) [3\.10\.0] (trinkets\-3\.10\.0\.jar)
+    - [UniLib](https://www.curseforge.com/minecraft/mc-mods/unilib) [1\.2\.0] (UniLib\-1\.2\.0\+1\.21\.1\-neoforge\.jar)
+    - [Vein Vantage](https://veinvantage.pages.dev/) [3\.0\.0] (vein\_vantage\-3\.0\.0\-neoforge\-1\.21\.1\.jar)
+    - [VillagerConfig](https://github.com/DrexHD/VillagerConfig) [4\.5\.2] (villagerconfig\-neoforge\-4\.5\.2\+1\.21\.1\.jar)
+    - [Visual Workbench](https://github.com/Fuzss/visualworkbench) [21\.1\.1] (VisualWorkbench\-v21\.1\.1\-1\.21\.1\-NeoForge\.jar)
+    - [Visuality: Reforged](https://www.curseforge.com/minecraft/mc-mods/visuality-forge) [2\.1\.0] (visuality\-forge\-2\.1\.0\.jar)
+    - Wakes [1\.0\.4] (wakes\-1\.21\.1\-NeoForge\-1\.0\.4\.jar)
+    - [Waystones](https://mods.twelveiterations.com/mc/waystones) [21\.1\.25] (waystones\-neoforge\-1\.21\.1\-21\.1\.25\.jar)
+    - What Are They Up To [1\.21\.0\-1\.2\.7] (watut\-neoforge\-1\.21\.0\-1\.2\.7\.jar)
+    - Witcher [2\.6\.3] (witcher\-class\-mod\-neoforge\-2\.6\.3\+1\.21\.1\.jar)
+    - Wizards \(RPG Series\) [2\.6\.5] (wizards\-neoforge\-2\.6\.5\+1\.21\.1\.jar)
+    - [Xaero's Maps x Waystones](https://github.com/alinco8/XaerosMaps-x-Waystones) [1\.0\.8] (xaeromaps\_waystones\-1\.0\.8\+1\.21\.x\-neoforge\.jar)
+    - Xaero's Minimap [25\.2\.10] (Xaeros\_Minimap\_25\.2\.10\_NeoForge\_1\.21\.jar)
+    - Xaero's World Map [1\.39\.12] (XaerosWorldMap\_1\.39\.12\_NeoForge\_1\.21\.jar)
+    - [YUNG's API](https://www.curseforge.com/minecraft/mc-mods/yungs-api-neoforge) [1\.21\.1\-NeoForge\-5\.1\.6] (YungsApi\-1\.21\.1\-NeoForge\-5\.1\.6\.jar)
+    - [YUNG's Better Desert Temples](https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples-neoforge) [1\.21\.1\-NeoForge\-4\.1\.5] (YungsBetterDesertTemples\-1\.21\.1\-NeoForge\-4\.1\.5\.jar)
+    - [YUNG's Better Dungeons](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons-neoforge) [1\.21\.1\-NeoForge\-5\.1\.4] (YungsBetterDungeons\-1\.21\.1\-NeoForge\-5\.1\.4\.jar)
+    - [YUNG's Better Jungle Temples](https://www.curseforge.com/minecraft/mc-mods/yungs-better-jungle-temples-neoforge) [1\.21\.1\-NeoForge\-3\.1\.2] (YungsBetterJungleTemples\-1\.21\.1\-NeoForge\-3\.1\.2\.jar)
+    - [YUNG's Better Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-neoforge) [1\.21\.1\-NeoForge\-5\.1\.1] (YungsBetterMineshafts\-1\.21\.1\-NeoForge\-5\.1\.1\.jar)
+    - [YUNG's Better Nether Fortresses](https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses-neoforge) [1\.21\.1\-NeoForge\-3\.1\.5] (YungsBetterNetherFortresses\-1\.21\.1\-NeoForge\-3\.1\.5\.jar)
+    - [YUNG's Better Ocean Monuments](https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-monuments-neoforge) [1\.21\.1\-NeoForge\-4\.1\.2] (YungsBetterOceanMonuments\-1\.21\.1\-NeoForge\-4\.1\.2\.jar)
+    - [YUNG's Better Strongholds](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-neoforge) [1\.21\.1\-NeoForge\-5\.1\.3] (YungsBetterStrongholds\-1\.21\.1\-NeoForge\-5\.1\.3\.jar)
+    - [YUNG's Better Witch Huts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts-neoforge) [1\.21\.1\-NeoForge\-4\.1\.1] (YungsBetterWitchHuts\-1\.21\.1\-NeoForge\-4\.1\.1\.jar)
+    - YetAnotherConfigLib [3\.8\.1\+1\.21\.1\-neoforge] (yet\_another\_config\_lib\_v3\-3\.8\.1\+1\.21\.1\-neoforge\.jar)
+    - citresewn\_neopatcher\-1\.1\.0\-1\.2\.2 (citresewn\_neopatcher\-1\.1\.0\-1\.2\.2\.jar)
+    - connector\-2\.0\.0\-beta\.12\+1\.21\.1\-full (connector\-2\.0\.0\-beta\.12\+1\.21\.1\-full\.jar)
+    - [create: things and misc](https://discord.gg/k3fGJwJqzu) [1\.0\.0] (create\_things\_and\_misc\-4\.0\-neoforge\-1\.21\.1\.jar)
+    - kotlinforforge\-5\.10\.0\-all (kotlinforforge\-5\.10\.0\-all\.jar)
+    - oωo [0\.12\.15\.5\-beta\.1\+1\.21] (owo\-lib\-neoforge\-0\.12\.15\.5\-beta\.1\+1\.21\.jar)
 
 ## How to Join?
 
