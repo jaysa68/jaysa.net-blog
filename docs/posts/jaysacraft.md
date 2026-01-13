@@ -23,7 +23,9 @@ The server runs Neoforge 1.21.1 and a "kitchen sink" pack (aka whatever mods `gu
 Shaders are optional, modpack and resource packs are required. You can remove some of the client-side mods at your discretion, though.
 
 > [📥 **Full Jaysacraft2 Modpack**](https://blog.jaysa.net/assets/jaysacraft2.zip)
+>
 > [📥 **Jaysacraft Resource Packs**](https://blog.jaysa.net/assets/jaysapack2.zip)
+>
 > [📥 **Recommended Shaders (Complementary Reimagined)**](https://blog.jaysa.net/assets/ComplementaryReimagined_r5.6.1.zip)
 
 Downloads last updated 1/13/2026.
