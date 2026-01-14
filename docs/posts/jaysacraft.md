@@ -28,6 +28,8 @@ Shaders are optional, modpack and resource packs are required. You can remove so
 
 > [📥 **Recommended Shaders (Complementary Reimagined)**](https://blog.jaysa.net/assets/ComplementaryReimagined_r5.6.1.zip)
 
+> [📥 **Modrinth Modpack**](https://blog.jaysa.net/assets/jaysacraft-modrinth.mrpack)
+
 Downloads last updated 1/13/2026.
 
 ## How to Join?
