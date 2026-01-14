@@ -1,0 +1,22 @@
+version: '3'
+services:
+  mkdocs:
+    image: squidfunk/mkdocs-material:latest
+    command: build --clean --site-dir /site
+    volumes:
+      - .:/docs               # Mount project (with mkdocs.yml + docs/)
+      - ./site:/site          # Mount site output separately
+    working_dir: /docs        # mkdocs.yml lives here
+    stdin_open: true
+    tty: true
+    restart: always
+
+  nginx:
+    image: nginx:alpine
+    depends_on:
+      - mkdocs
+    ports:
+      - "8080:80"
+    volumes:
+      - ./site:/usr/share/nginx/html:ro
+    restart: always
