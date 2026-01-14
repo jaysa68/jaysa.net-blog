@@ -24,7 +24,7 @@ Shaders are optional, modpack and resource packs are required. You can remove so
 
 > [📥 **Full Jaysacraft2 Modpack**](https://blog.jaysa.net/assets/jaysacraft2.zip)
 
-> [📥 **Jaysacraft Resource Packs**](https://blog.jaysa.net/assets/jaysapack2.zip)
+> [📥 **Jaysacraft Resource Pack**](https://blog.jaysa.net/assets/jaysapack2.zip)
 
 > [📥 **Recommended Shaders (Complementary Reimagined)**](https://blog.jaysa.net/assets/ComplementaryReimagined_r5.6.1.zip)
 
@@ -37,14 +37,16 @@ Downloads last updated 1/13/2026.
 1. Ask me (contact@jaysa.net) or a server operator to add you to the whitelist.
 1. Download and launch Prismlauncher.
 1. In Prismlauncher, click  "Add Instance".
-1. Select Neoforge under modloader, set 1.21.1 as the version, then click "OK".
-    - You can right-click and rename the instance if you'd like.
-1. Unzip the modpack. 
+1. Select Minecraft version 1.21.1, set the modloader to Neoforge, and select Neoforge version 21.1.217.
+    - You can then right-click and rename the instance if you'd like.
+1. Download the modpack, resource pack, and shaders.
 1. On the instance you made, click "Edit" -> "Mods" -> "Add File".
 1. Get to the folder where you unzipped the mods and select all of them, then click "OK".
+1. Repeat this for the resource pack.
+1. For the shaders, you don't have to unzip the file, you can just select the `ComplementaryReimagined_r5.6.1.zip`.
 1. Double click the instance to start it!
+1. Click resource packs and turn them on, and also turn on the shaders in the settings.
 1. Then, in multiplayer, join IP `minecraft.jaysa.net`.
-1. Once you're on, please install the recommended resource pack, and grab the recommended shaders linked above if you have a decent computer.
 
 You can also use Modrinth or the default launcher instead of Prismlauncher.
 
@@ -55,11 +57,13 @@ Yeah, but you're on the hook if they do any griefing. Ask an operator to whiteli
 Server operators:
 - `venomshank68` (jaysa)
 - `gureatest` (thalia)
-- 'AshIsCash' (ashleigh)
+- `AshIsCash` (ashleigh)
+- `Captain Os` (jonathan)
+- `LadyDernhelm` (emma)
 
 ## I need help!
 
-Reach out to me on discord (evil_girl_making_laggy_chairs) or email me at [contact@jaysa.net](mailto:contact@jaysa.net).
+Reach out to me on Discord (evil_girl_making_laggy_chairs) or email me at [contact@jaysa.net](mailto:contact@jaysa.net).
 
 ## ARCHIVE
 
