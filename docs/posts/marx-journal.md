@@ -9,7 +9,7 @@ categories:
 
 For English 177 with Colleen Lye
 
-<--! more -->
+<!-- more -->
 
 ## Editorial Introduction
 
