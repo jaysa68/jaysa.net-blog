@@ -7,6 +7,8 @@ categories:
 
 # William Blake: Weekly Reading Journal
 
+<!-- more -->
+
 ## Kant - What is Enlightenment?
 
 - value of thinking

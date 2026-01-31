@@ -3,6 +3,7 @@ date:
     created: 2026-01-02
 categories:
     - Gaming
+pin: true
 ---
 
 # JAYSACRAFT
@@ -15,6 +16,8 @@ categories:
 2 years later, new cobblemon updates, new minecraft server, new fork of forge...? Crazy. Lets go!!!
 
 <!-- more -->
+
+[Daltostar's Enchants Spreadsheet](https://docs.google.com/spreadsheets/d/1uSECLbJNKQ37hHgGpQ2USn2NK8aSl6aQd7tNbgS9l8Q/edit?usp=sharing){ .md-button .md-button--primary }
 
 ## Downloads
 
@@ -31,6 +34,7 @@ Shaders are optional, modpack and resource packs are required. You can remove so
 > [📥 **Modrinth Modpack**](https://blog.jaysa.net/assets/jaysacraft-modrinth.mrpack)
 
 Downloads last updated 1/13/2026.
+
 
 ## How to Join?
 
