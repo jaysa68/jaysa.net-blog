@@ -7,6 +7,10 @@ categories:
 
 # Reading Capital: Weekly Reading Journal
 
+For English 177 with Colleen Lye
+
+<!-- more -->
+
 ## Editorial Introduction
 
 - catechism form: questions followed by answers to be memorized [wikipedia](https://en.wikipedia.org/wiki/Catechism)
