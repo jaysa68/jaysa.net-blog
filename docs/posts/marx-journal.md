@@ -173,3 +173,41 @@ association, in which the free development of each is the condition for the free
 all." (27)
 
 - no idea what that means honestly. suuuuper vague. even that solid-into-air shit made more sense
+
+--- 
+
+## Marx “Value, Price and Profit”: 1-20, 29-32
+
+### Introduction
+
+John Weston:
+    1. "a general rise in the rate of wages would be of no use to the workers"
+    2. "therefore... the trade unions have a harmful effect."
+
+Marx writes his counterargument to this in "Value, Price and Profit"
+    - First part attacks **theory of wages fund**
+        - idea that finite, unalterable sum of money is split evenly between all workers
+        - meaning trying to increase wages is harmful!
+    - Second part covers **theories of value and surplus value**
+
+### Preliminary
+
+Marx agrees with Weston's core goal, but not the theses that stem from it, which Marx believes to be quite false & dangerous.
+
+### I. Production and Wages
+
+Weston's 2 premises:
+    1. the amount of national production is a fixed thing
+    2. real wages are also fixed
+        - real wages: "wages as measured by the quantity of commodities they can buy"
+
+- assertion #1 is obviously wrong, we see production increase constantly day-to-day.
+    - national production is variable now, and if wages rose, it would stay variable.
+- suppose national production is fixed.
+    - if capitalists try to lower wages, according to *constancy of wages* (Weston's own principle), workers will react
+    - in this situation, workers are reacting to raise wages!
+
+### II. Production, Wages, Profits
+
+
+
