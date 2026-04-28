@@ -9,7 +9,7 @@ services:
     working_dir: /docs        # mkdocs.yml lives here
     stdin_open: true
     tty: true
-    restart: always
+    restart: "no"
 
   nginx:
     image: nginx:alpine
