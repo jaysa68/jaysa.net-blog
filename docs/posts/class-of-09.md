@@ -2,8 +2,7 @@
 title: Trash Girl TV
 date:
     created: 2026-03-23
-Categories:
-    - "Scrap Paper"
+draft: true
 ---
 
 catharsis 4 me

@@ -1,8 +1,7 @@
 ---
 date:
     created: 2026-04-20
-Categories:
-    - "Scrap Paper"
+draft: true
 ---
 
 # playlists (draft)

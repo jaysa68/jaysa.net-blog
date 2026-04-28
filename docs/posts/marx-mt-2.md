@@ -1,8 +1,7 @@
 ---
 date:
     created: 2026-04-22
-categories:
-    - "Scratch Paper"
+draft: true
 ---
 
 # Marx Midterm 2

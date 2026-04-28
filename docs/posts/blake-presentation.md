@@ -1,8 +1,7 @@
 ---
 date:
     created: 2026-04-09
-categories:
-    - "Scrap Paper"
+draft: true
 ---
 
 # William Blake & Marx: Child Labor
