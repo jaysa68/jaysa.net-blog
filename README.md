@@ -11,3 +11,7 @@ TODO:
 - fix rss
 - make custom playlists for bg music
     - host on odysee?
+
+helpful cmds:
+
+yt-dlp --merge-output-format webm
