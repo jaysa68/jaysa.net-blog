@@ -4,6 +4,7 @@ date:
     created: 2026-02-19
 Categories:
     - "Scrap Paper"
+draft: true
 ---
 
 How did I switch to a flip phone? What did I hope for? Did it fix me?
