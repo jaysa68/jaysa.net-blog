@@ -114,6 +114,14 @@ These are stores which have been recommended to me by friends and I might buy fr
 - [Meyoco](https://meyocostudio.com/)
 - [Clammy Heart](https://clammyheart.shop/)
 
+from [anna](https://anna.dymchenko.com/)
+-  https://throwboy.com/collections/shop
+    - according to anna, has terrible customer service. instead go to the computer history museum and buy whatever they have in stock.
+- [Errornogo](https://errornogo.com/)
+
+from rsang.me:
+- [American Duchess](https://www.americanduchess.com/)
+
 ### NSFW
 - [sxucee](https://sxucee.us)
 - [Illegal Waifus](https://illegalwaifus.com)
@@ -125,3 +133,5 @@ These are stores which have been recommended to me by friends and I might buy fr
 - [sarlistart](https://x.com/sarlisart)
     - her store is currently down and she hasn't posted anywhere I can find since 2022
     - I found her through album covers from In Love With A Ghost many years ago
+
+TODO: once ive actually bought from the bonus stores (and some others), make a v2 of this post
