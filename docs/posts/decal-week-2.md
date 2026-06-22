@@ -1,6 +1,7 @@
 ---
 title: Core Shell & Bash Scripting
-date: 2025-09-16
+date:
+    created: 2025-09-16
 ---
 
 # Core Shell & Bash Scripting

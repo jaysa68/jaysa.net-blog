@@ -6,7 +6,7 @@ categories:
     - Writing
 ---
 
-![cover](/assets/berkeley-english-tips/cover-photo.jpg)
+![cover](../assets/berkeley-english-tips/cover-photo.jpg)
 
 I'm in my final semester of my 4th year at UC Berkeley majoring in English. These are the tips I'd give to a freshman English major now.
 
@@ -17,7 +17,7 @@ I'm in my final semester of my 4th year at UC Berkeley majoring in English. Thes
 
 ## 1. Know the English Trinity
 
-![trinity](/assets/berkeley-english-tips/trinity.jpg)
+![trinity](../assets/berkeley-english-tips/trinity.jpg)
 
 No, not the Father, Son and Holy Spirit. **European History, the Bible, and Greek mythology.** If you have a baseline understanding of these 3 subjects, you will have some interesting external insight into 95% of texts you have to read in college. Common interpretations of the texts you encounter, from professors and other students, will be easier to follow. You can swap out Greek mythology with classical studies more broadly if you'd like, so you also have ancient philosophy and the works of Homer covered (I'm pretty weak in these areas myself). But I find mythology to be the easiest entry point to the rest of classical studies, since it's the most fun! My evidence? [Supergiant Games created one of the most fun roguelike games based on Greek mythology](https://store.steampowered.com/app/1145360/Hades/).
 
@@ -27,7 +27,7 @@ Shakespeare can be better understood if you know this trinity. So can the works 
 
 ## 2. Obtain physical copies of your texts
 
-![bookstack](/assets/berkeley-english-tips/bookstack.jpg)
+![bookstack](../assets/berkeley-english-tips/bookstack.jpg)
 
 Yes, I know digital texts are more convenient. You can jump quickly to particular words or page numbers. Electronic devices are lighter to carry around. And, nearly all digital texts are free (if you pirate them, which you definitely do).
 
@@ -58,7 +58,7 @@ If you're worried about spoilers, you can always read the summary in parallel wi
 
 ## 5. For difficult language, listen to the audiobook while reading
 
-![audiobook](/assets/berkeley-english-tips/audiobook.jpg)
+![audiobook](../assets/berkeley-english-tips/audiobook.jpg)
 
 In my experience, this was usually Early Modern and Old English. I'd lose a lot from poetry because I didn't know the pronounciations for certain words, or the tone with which certain lines should be delivered. But looking up these details each time is time-consuming, so I end up losing the forest for the trees; plus, I read slowly enough as-is!
 
@@ -66,7 +66,7 @@ However, you can use audiobooks for more modern texts as well. Anything that mak
 
 ## 6. The Double Bookmark Method
 
-![double-bookmark](/assets/berkeley-english-tips/double-bookmark.jpg)
+![double-bookmark](../assets/berkeley-english-tips/double-bookmark.jpg)
 
 Remember how I said in Tip #3 that I prefer not (and frankly struggle) to skim? Well, at some point during the semester, I inevitably fall behind on my readings. It's easy to let yourself continue to get behind, losing track of where you're supposed to be. I find it helpful to keep 2 bookmarks: one for where you actually are in the book, and one for where you're supposed to be according to the reading schedule. Having a printed-out syllabus stored in the book itself is good to reference when moving the 2nd bookmark.
 
@@ -75,7 +75,7 @@ It helps you visualize how behind you actually are, feel the appropriate level o
 
 ## 7. Don't use electronic devices in class
 
-![x-laptop](/assets/berkeley-english-tips/x-laptop.jpg)
+![x-laptop](../assets/berkeley-english-tips/x-laptop.jpg)
 
 This is easier to do if you follow my 2nd tip and obtain physical copies of your texts. If I have my laptop out, I'm too tempted to open another window and distract myself from lecture or what is happening in class. If I have my phone out, whether it's a smart phone or flip phone, I will likewise stop paying attention. **You've gotta give yourself no choice but the content**.
 
@@ -83,7 +83,7 @@ And, in smaller seminar settings, it's nice not to have that physical barrier be
 
 ## 8. During discussion, respond directly to other students' ideas
 
-![chat](/assets/berkeley-english-tips/chat.jpg)
+![chat](../assets/berkeley-english-tips/chat.jpg)
 
 If you think of something you'd like to say, don't hang on to it in your head and ignore whatever else is being said until you get the chance to speak. But don't forget it, either: write it down and come back to it! In times like these, I will often distinguish my own thoughts from the rest of my class notes with brackets \[like so\].
 
@@ -105,7 +105,7 @@ I'll do this for assignments of any size, and also writing outside of school. Yo
 
 ## Conclusion
 
-![love](/assets/berkeley-english-tips/love.jpg)
+![love](../assets/berkeley-english-tips/love.jpg)
 
 I didn't write this list for any particular purpose, I just wanted to jot down what has helped me succeed in past classes. I figured each rule out incrementally through experience.
 

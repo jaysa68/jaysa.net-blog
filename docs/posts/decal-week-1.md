@@ -1,6 +1,7 @@
 ---
 title: Intro to Linux and FOSS
-date: 2025-09-09
+date:
+    created: 2025-09-09
 categories:
     - Tech
 ---
@@ -148,7 +149,7 @@ if you're confused or want more options.
 
 I claim that you are broke in multiple ways.
 
-P.S. If this isn't true, hop on over to [ocf.io/donate](ocf.io/donate) and give us all of your money pretty please 👉👈
+P.S. If this isn't true, hop on over to [ocf.io/donate](https://ocf.io/donate) and give us all of your money pretty please 👉👈
 
 ## 1 - You are too broke to have a company rip off your personal projects that you poured your blood, sweat, and tears into.
 

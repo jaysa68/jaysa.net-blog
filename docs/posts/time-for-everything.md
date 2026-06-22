@@ -8,7 +8,7 @@ categories:
 # Time For Everything
 
 
-![desk](/assets/desk.webp)
+![desk](../assets/desk.webp)
 
 <!-- more -->
 

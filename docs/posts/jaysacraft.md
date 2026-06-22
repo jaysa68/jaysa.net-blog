@@ -1,17 +1,17 @@
 ---
 date:
     created: 2026-01-02
+    updated: 2026-06-22
 categories:
     - Gaming
-pin: true
 ---
 
 # JAYSACRAFT
 
 
-![minecraft](/assets/jaysacraft.png)
+![minecraft](../assets/jaysacraft.png)
 
-!!! success "This server is currently active!"
+!!! warning "This server is currently down."
 
 2 years later, new cobblemon updates, new minecraft server, new fork of forge...? Crazy. Lets go!!!
 

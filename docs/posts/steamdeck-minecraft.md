@@ -10,7 +10,7 @@ categories:
 
 A log of how I got it working.
 
-![thumbnail](/assets/steamdeck-minecraft/thumbnail.png)
+![thumbnail](../assets/steamdeck-minecraft/thumbnail.png)
 
 <!-- more -->
 
@@ -20,7 +20,7 @@ I already got emulation going for Super Mario Galaxy by following this [Retro Ga
 
 Alright, starting with [this reddit comment](https://www.reddit.com/r/SteamDeck/comments/155otfh/comment/jsvjseo/). Didn't need to read past the first sentence. All I did was install Prism Launcher then [download the stuff I need for my modpack](http://blog.jaysa.net/2026/01/02/jaysacraft/#how-to-join).
 
-![reddit comment](/assets/steamdeck-minecraft/reddit-post1.png)
+![reddit comment](../assets/steamdeck-minecraft/reddit-post1.png)
 
 
 ## Bonus
