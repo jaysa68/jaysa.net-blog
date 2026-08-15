@@ -62,3 +62,5 @@ In case this reddit post ever gets deleted, I'm putting the recipe here.
 ## 8/14/25
 
 I went home this weekend and let this rot in my fridge on accident. Man. Man. OK, new post soon. Still not off of ecryptfs and up a nix channel version. Just did a signal overlay so I had a recent enough version to use it. Jank. But.... rice of the century... is on its way.
+
+I also just set up github actions CD for my blog so I gotta add this sentence and push so it properly picks it up so I don't have to manually pull. Surely this lessening of friction is purely good and won't affect my writing quality...?
